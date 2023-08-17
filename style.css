@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+a:link {
+    color: white;
+ }
+ 
+ /* link que foi visitado */
+ a:visited {
+     color: white;
+ }
+ 
+ /* mouse over */
+ a:hover {
+     color: white;
+ }
+ 
+ /* link selecionado */
+ a:active {
+     color: white;
+ }
+
+.imagem {
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+.imagem1 {
+    margin-bottom: 15px;
+}
+
+
+.red {
+    color: rgb(221, 3, 3);
+}
